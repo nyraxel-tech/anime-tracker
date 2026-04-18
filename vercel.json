@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/anime.js": {
-      "runtime": "edge"
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
